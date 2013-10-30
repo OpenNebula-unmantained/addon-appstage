@@ -53,6 +53,8 @@ This version only supports Chef.
 
 ## Configuration
 
+[Configuration guide](doc/configure.md)
+
 ## Usage
 
 ## References
